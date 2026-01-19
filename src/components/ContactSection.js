@@ -126,7 +126,7 @@ export default function ContactSection() {
             </form>
 
             {/* WhatsApp Button */}
-            <a href="https://wa.me/9305380267" target="_blank">
+            <a href="https://wa.me/+919305380267" target="_blank">
               <button className="group mt-6 px-10 py-3 bg-white/10 border border-white/15 rounded-full font-semibold text-base hover:bg-white/20 transition-all duration-300 hover:scale-[1.03] hoverable mx-auto flex items-center gap-2">
                 <FaWhatsapp size={20} />
                 WhatsApp
