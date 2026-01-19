@@ -14,7 +14,7 @@ export default function Navigation() {
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
 
-  const navItems = ['Home', 'Work', 'Skills', 'About', 'Contact']
+  const navItems = ['Home','About', 'Work', 'Skills', 'Contact']
 
   return (
     <>
